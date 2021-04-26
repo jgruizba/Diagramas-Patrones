@@ -9,7 +9,7 @@
 </ol>
 
 <h2>Descripción del proyecto :paperclip:</h2>
-<p>Modelación mediante diagramas de clases, de casos de uso, de actividad y secuencia de los patrones gang of four. Los patrones modelados fueron iterator, abstract factory.</p>
+<p>Modelación mediante diagramas de clases, de casos de uso, de actividad y secuencia de los patrones gang of four. Los patrones modelados fueron iterator, abstract factory Y builder.</p>
 
 <h2>Herramientas :wrench:</h2>
 <ul>
