@@ -35,3 +35,12 @@
     <img src="https://github.com/AndresBaquero-00/Diagramas-Patrones/blob/main/Abstract%20Factory/diagramas/UseCaseabsfactory.jpg" alt="Diagrama de Casos de Uso">
   </p>
 </div>
+
+ <h2>Patrón builder</h2>
+ <div>
+  <p align='center'>
+    <img src="https://github.com/AndresBaquero-00/Diagramas-Patrones/blob/main/Builder/diagramas/Clases%20Builder.jpg" alt="Diagrama de Clases">
+    <img src="https://github.com/AndresBaquero-00/Diagramas-Patrones/blob/main/Builder/diagramas/Secuencia%20Builder.jpg" alt="Diagrama de Secuencia">
+    <img src="https://github.com/AndresBaquero-00/Diagramas-Patrones/blob/main/Builder/diagramas/Casos%20de%20Uso%20Builder.jpg" alt="Diagrama de Casos de Uso">
+  </p>
+</div>
